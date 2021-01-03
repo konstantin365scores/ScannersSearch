@@ -1,6 +1,6 @@
 # Scanners Search Tool
+Search for scanner on 365Scores servers by scanner name
 
-Finds scanners
 ## Dependencies
 
 [.Net 5.0](https://dotnet.microsoft.com/download/dotnet/5.0) or higher, check installed version with this command:
